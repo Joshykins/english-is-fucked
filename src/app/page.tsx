@@ -1,7 +1,4 @@
 import React from "react";
-import { IntroBlock } from "./components/IntroBlock";
-import { DescriptorsBlock } from "./components/DescriptorsBlock";
-import { ProjectsBlock } from "./components/ProjectsBlock";
 import { Container } from "./components/Container";
 
 export default async function Home() {
